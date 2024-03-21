@@ -1,7 +1,6 @@
 #include "lists.h"
 
 /**
- *
  * print_dlistint - prints doubly-linked list
  * @h: address of head node
  *

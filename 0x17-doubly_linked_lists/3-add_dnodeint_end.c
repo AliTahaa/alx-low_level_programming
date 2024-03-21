@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
- * add dnodeint - adds new head node to dlist
+ * add_dnodeint - adds new head node to dlist
  * @head: address of pointer to current head node
  * @n: int field of new node
  *
