@@ -3,6 +3,7 @@
         "stat.h": "c",
         "elf.h": "c",
         "types.h": "c",
-        "main.h": "c"
+        "main.h": "c",
+        "stdlib.h": "c"
     }
 }
